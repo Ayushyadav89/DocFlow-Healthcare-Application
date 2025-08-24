@@ -91,6 +91,7 @@ It provides **three role-based dashboards**: **Admin**, **Doctor**, and **Patien
 ## 📸 Screenshots
 <img width="1920" height="866" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/382e5858-fa41-4af9-bec3-8226b6972532" />
 <img width="1864" height="883" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/c7be1cf2-f449-4ba4-b2ba-cf5e01d85737" />
+<img width="1920" height="1080" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/e118e87b-7d29-4338-a0bf-53b681f68d32" />
 
 
 ---
@@ -101,4 +102,5 @@ It provides **three role-based dashboards**: **Admin**, **Doctor**, and **Patien
 - [LinkedIn](https://www.linkedin.com/in/ayush-yadav-143536253/) | [GitHub](https://github.com/Ayushyadav89)
 
 - Gmail: 2k22.cse.2213307@gmail.com
+
 
