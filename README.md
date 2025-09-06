@@ -89,9 +89,17 @@ It provides **three role-based dashboards**: **Admin**, **Doctor**, and **Patien
 - API routes are protected with middleware for role-based access.
 
 ## 📸 Screenshots
-<img width="1920" height="866" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/382e5858-fa41-4af9-bec3-8226b6972532" />
-<img width="1864" height="883" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/c7be1cf2-f449-4ba4-b2ba-cf5e01d85737" />
-<img width="1920" height="1080" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/e118e87b-7d29-4338-a0bf-53b681f68d32" />
+
+### Patient DashBoard
+<img width="1920" height="862" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/fb694b78-41c4-4a74-ad41-e843f3b62276" />
+<img width="1920" height="874" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/ef361181-76a8-478f-8653-2816c173c425" />
+<img width="1920" height="876" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/46645e84-481b-41fe-bd83-a6dcece50c23" />
+
+### Admin DashBoard
+<img width="1920" height="868" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/a5a02a20-a19b-441f-abd1-1a59ed693008" />
+
+### Doctor DashBoard
+<img width="1920" height="868" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/c2a2e64d-ed5a-4666-b78b-67878135d426" />
 
 
 ---
@@ -102,5 +110,6 @@ It provides **three role-based dashboards**: **Admin**, **Doctor**, and **Patien
 - [LinkedIn](https://www.linkedin.com/in/ayush-yadav-143536253/) | [GitHub](https://github.com/Ayushyadav89)
 
 - Gmail: 2k22.cse.2213307@gmail.com
+
 
 
