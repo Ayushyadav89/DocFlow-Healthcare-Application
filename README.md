@@ -3,7 +3,7 @@
 DocFlow is a **full-stack doctor-patient management system** built using the **MERN stack**.  
 It provides **three role-based dashboards**: **Admin**, **Doctor**, and **Patient** for smooth appointment scheduling, doctor management, and patient interaction.  
 
-- Live Demo: [Live Site](https://pulse360-ayushyadav.onrender.com)
+- Live Demo: [Live Site](https://docflow-ayushyadav.onrender.com)
 
 ---
 
@@ -89,8 +89,6 @@ It provides **three role-based dashboards**: **Admin**, **Doctor**, and **Patien
 - API routes are protected with middleware for role-based access.
 
 ## 📸 Screenshots
-<<<<<<< HEAD
-=======
 
 ### Patient DashBoard
 <img width="1920" height="862" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/fb694b78-41c4-4a74-ad41-e843f3b62276" />
@@ -102,8 +100,6 @@ It provides **three role-based dashboards**: **Admin**, **Doctor**, and **Patien
 
 ### Doctor DashBoard
 <img width="1920" height="868" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/c2a2e64d-ed5a-4666-b78b-67878135d426" />
->>>>>>> fd3c22b4ad4cf127ce25a9028ec7c205d90e4310
-
 
 ---
 
