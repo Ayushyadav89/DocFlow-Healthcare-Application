@@ -56,7 +56,7 @@ It provides **three role-based dashboards**: **Admin**, **Doctor**, and **Patien
 
 ### Clone the repository
 - git init
-- git clone https://github.com/Ayushyadav89/Prescripto-Healthcare-Application.git
+- git clone https://github.com/Ayushyadav89/Pulse360-Healthcare-Application.git
 
 
 ### Backend Setup
