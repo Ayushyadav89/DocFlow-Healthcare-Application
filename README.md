@@ -91,15 +91,17 @@ It provides **three role-based dashboards**: **Admin**, **Doctor**, and **Patien
 ## 📸 Screenshots
 
 ### Patient DashBoard
-<img width="1920" height="862" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/fb694b78-41c4-4a74-ad41-e843f3b62276" />
-<img width="1920" height="874" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/ef361181-76a8-478f-8653-2816c173c425" />
-<img width="1920" height="876" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/46645e84-481b-41fe-bd83-a6dcece50c23" />
+<img width="1920" height="878" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/1157e910-8516-4c2b-9f81-2a19d822e318" />
+<img width="1920" height="867" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/6ec33725-1dfe-4c97-82ca-3a9bdd474bc7" />
+<img width="1920" height="865" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/a612214a-436d-44ea-a081-fb26d15cbf1d" />
+
 
 ### Admin DashBoard
-<img width="1920" height="868" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/a5a02a20-a19b-441f-abd1-1a59ed693008" />
+<img width="1920" height="874" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/de4d5352-0f8f-4571-bc0d-ca8ae2f1e7ef" />
+
 
 ### Doctor DashBoard
-<img width="1920" height="868" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/c2a2e64d-ed5a-4666-b78b-67878135d426" />
+<img width="1920" height="880" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/088d4eec-f3f1-4d8a-84f1-5bac23a54be2" />
 
 ---
 
@@ -108,6 +110,7 @@ It provides **three role-based dashboards**: **Admin**, **Doctor**, and **Patien
 - B.Tech CSE | MERN Stack Developer
 - [LinkedIn](https://www.linkedin.com/in/ayush-yadav-143536253/) | [GitHub](https://github.com/Ayushyadav89)
 - Gmail: 2k22.cse.2213307@gmail.com
+
 
 
 
