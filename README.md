@@ -1,6 +1,6 @@
-﻿# 🩺 Prescripto – Doctor Management Application
+﻿# 🩺 Pulse360 – Doctor Management Application
 
-Prescripto is a **full-stack doctor-patient management system** built using the **MERN stack**.  
+Pulse360 is a **full-stack doctor-patient management system** built using the **MERN stack**.  
 It provides **three role-based dashboards**: **Admin**, **Doctor**, and **Patient** for smooth appointment scheduling, doctor management, and patient interaction.  
 
 - Live Demo: [Live Site](https://prescripto-ayushyadav.onrender.com/)
