@@ -8,7 +8,7 @@ const Footer = () => {
 
         <div>
           <img className='mb-5 w-40' src={assets.logo} alt="" />
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Prescripto connects patients and doctors with ease. Secure appointments, health reports, and trusted care—all in one place for better healthcare accessibility.</p>
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Pulse360 connects patients and doctors with ease. Secure appointments, health reports, and trusted care—all in one place for better healthcare accessibility.</p>
         </div>
 
         <div>
@@ -33,7 +33,7 @@ const Footer = () => {
 
       <div>
         <hr />
-        <p className='py-5 text-sm text-center'>Copyright 2025 @ Prescripto.com - All Right Reserved.</p>
+        <p className='py-5 text-sm text-center'>Copyright 2025 @ Pulse360.com - All Right Reserved.</p>
       </div>
 
     </div>
