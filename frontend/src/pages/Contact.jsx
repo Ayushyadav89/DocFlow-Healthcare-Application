@@ -15,7 +15,7 @@ const Contact = () => {
           <p className=' font-semibold text-lg text-gray-600'>OUR OFFICE</p>
           <p className=' text-gray-500'>123 Mall Road Suite 210, <br /> Kanpur, Uttar Pradesh, India</p>
           <p className=' text-gray-500'>Tel: +91 - 7275965247 <br /> Email: 2k22.cse.2213307@gmail.com</p>
-          <p className=' font-semibold text-lg text-gray-600'>CAREERS AT PULSE360</p>
+          <p className=' font-semibold text-lg text-gray-600'>CAREERS AT DOCFLOW</p>
           <p className=' text-gray-500'>Learn more about our teams and job openings.</p>
           <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore Jobs</button>
         </div>

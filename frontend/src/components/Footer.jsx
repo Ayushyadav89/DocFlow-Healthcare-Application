@@ -8,7 +8,7 @@ const Footer = () => {
 
         <div>
           <img className='mb-5 w-40' src={assets.logo} alt="" />
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Pulse360 connects patients and doctors with ease. Secure appointments, health reports, and trusted care—all in one place for better healthcare accessibility.</p>
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>DocFlow connects patients and doctors with ease. Secure appointments, health reports, and trusted care—all in one place for better healthcare accessibility.</p>
         </div>
 
         <div>
