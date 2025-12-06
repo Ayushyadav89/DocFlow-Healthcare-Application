@@ -7,8 +7,6 @@ It provides **three role-based dashboards**: **Admin**, **Doctor**, and **Patien
 
 ---
 
-## 🚀 Features
-
 ### **👩‍⚕️ Doctor Dashboard**
 - Accept or reject patient appointment requests.
 - View and manage upcoming schedules.
@@ -111,6 +109,7 @@ It provides **three role-based dashboards**: **Admin**, **Doctor**, and **Patien
 - B.Tech CSE | MERN Stack Developer
 - [LinkedIn](https://www.linkedin.com/in/ayush-yadav-143536253/) | [GitHub](https://github.com/Ayushyadav89)
 - Gmail: 2k22.cse.2213307@gmail.com
+
 
 
 
